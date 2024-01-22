@@ -1,2 +1,2 @@
 빨강
-REDRED
+RED
